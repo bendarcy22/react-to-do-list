@@ -11,3 +11,9 @@
 /log/*
 !/log/.keep
 /tmp
+.env
+/coverage
+/spec/examples.txt
+/node_modules
+/app/assets/javascripts/bundle.js
+/react/coverage
